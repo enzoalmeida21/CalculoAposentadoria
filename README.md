@@ -1,7 +1,7 @@
 
 # Calculadora de Tempo de Aposentadoria
 
-Este é um aplicativo simples para calcular o tempo restante até a aposentadoria com base no tempo de contribuição e na idade do usuário.
+Este é um aplicativo simples para calcular o tempo restante até a aposentadoria com base na idade do usuário.
 
 ## Funcionalidades
 

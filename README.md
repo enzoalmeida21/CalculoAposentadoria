@@ -1,6 +1,3 @@
-Claro! Aqui está um exemplo de README para um aplicativo básico de cálculo do tempo de aposentadoria:
-
----
 
 # Calculadora de Tempo de Aposentadoria
 
